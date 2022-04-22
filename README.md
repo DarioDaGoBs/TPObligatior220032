@@ -1,2 +1,2 @@
 # TPObligatior220032
-Trabajo practico  destinado al profesor de curso y compañerpos
+Trabajo practico  destinado al profesor de curso y compañeros
